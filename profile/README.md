@@ -16,6 +16,8 @@
   <a href="https://cocode.agency">Website</a>
   ·
   <a href="https://github.com/cocode-agency/cocode">Cocode</a>
+  ·
+  <a href="https://cocode.agency/nut">Cocode Nut</a>
 </p>
 
 </div>
@@ -34,6 +36,12 @@
 | --- | --- |
 | Sessions, files, Git, terminals, browser, and diffs on one surface | A focused client for keyboard-first and remote work |
 
+## Cocode Nut
+
+**Cocode Nut is Cocode's hosted model service.** Subscribe monthly for DeepSeek usage credits and use them directly in Cocode GUI and TUI — no API key to apply for or manage.
+
+<a href="https://cocode.agency/nut"><strong>Explore Cocode Nut plans →</strong></a>
+
 ## Our principles
 
 - **Useful over impressive.** Every surface should help someone finish real work.
@@ -46,8 +54,9 @@
 If you’re new to the organization, the quickest path is:
 
 1. Explore [Cocode](https://github.com/cocode-agency/cocode), the main repository.
-2. Read its README for local setup and development commands.
-3. Browse open issues and discussions before starting a contribution.
+2. Visit [Cocode Nut](https://cocode.agency/nut) if you want hosted model access without managing an upstream API key.
+3. Read the Cocode README for local setup and development commands.
+4. Browse open issues and discussions before starting a contribution.
 
 For product updates, visit [cocode.agency](https://cocode.agency).
 
