@@ -1,8 +1,13 @@
-<svg width="176" height="176" viewBox="0 0 176 176" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">cocode.agency mark</title>
-  <desc id="desc">A cyan pixelated building mark on a charcoal background</desc>
-  <rect width="176" height="176" rx="28" fill="#F4F5F6"/>
-  <path d="M44 68h88v64H44V68Z" fill="#70D2DF"/>
-  <path d="M68 44h40v24H68V44Z" fill="#70D2DF"/>
-  <path d="M76 92h24v24H76V92ZM52 116h24v24H52v-24ZM100 116h24v24h-24v-24Z" fill="#F4F5F6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="176" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">cocode logo</title>
+  <desc id="desc">The official cocode white pixel C on a dark rounded square</desc>
+  <rect width="64" height="64" rx="13" fill="#101010"/>
+  <g fill="#FAFAFA" shape-rendering="crispEdges">
+    <rect x="12.8" y="18.33" width="6.4" height="4.57"/>
+    <rect x="19.2" y="13.76" width="32" height="9.14"/>
+    <rect x="12.8" y="22.9" width="12.8" height="9.14"/>
+    <rect x="12.8" y="32.05" width="12.8" height="9.14"/>
+    <rect x="12.8" y="41.19" width="6.4" height="4.57"/>
+    <rect x="19.2" y="41.19" width="32" height="9.14"/>
+  </g>
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/cocode-mark.svg" width="88" alt="cocode.agency mark" />
+<img src="../assets/cocode-mark.svg" width="88" alt="cocode logo" />
 
 # cocode.agency
 
