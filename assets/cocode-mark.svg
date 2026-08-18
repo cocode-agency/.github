@@ -1,0 +1,8 @@
+<svg width="176" height="176" viewBox="0 0 176 176" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">cocode.agency mark</title>
+  <desc id="desc">A cyan pixelated building mark on a charcoal background</desc>
+  <rect width="176" height="176" rx="28" fill="#F4F5F6"/>
+  <path d="M44 68h88v64H44V68Z" fill="#70D2DF"/>
+  <path d="M68 44h40v24H68V44Z" fill="#70D2DF"/>
+  <path d="M76 92h24v24H76V92ZM52 116h24v24H52v-24ZM100 116h24v24h-24v-24Z" fill="#F4F5F6"/>
+</svg>
