@@ -40,6 +40,13 @@
 
 **Cocode Nut is Cocode's hosted model service.** Subscribe monthly for DeepSeek usage credits and use them directly in Cocode GUI and TUI — no API key to apply for or manage.
 
+**Every paid plan includes 6× its monthly price in model credits.**
+
+| Free | **Pro** | Max | Ultra |
+| --- | --- | --- | --- |
+| $0 / month | **$10 / month** | $60 / month | $200 / month |
+| $1 model credit | **$60 model credits** | $360 model credits | $1,200 model credits |
+
 <a href="https://cocode.agency/nut"><strong>Explore Cocode Nut plans →</strong></a>
 
 ## Our principles
