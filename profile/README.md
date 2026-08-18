@@ -1,5 +1,11 @@
 <div align="center">
 
+<p>
+  <strong>English</strong>
+  ·
+  <a href="https://github.com/cocode-agency/.github/blob/main/profile/README.zh-CN.md">简体中文</a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/cocode-logo-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="../assets/cocode-logo-light.svg" />
@@ -10,7 +16,7 @@
 
 **Tools for people who think in systems.**
 
-我们把可靠的 AI 能力，做成真正适合日常工作的产品。
+We turn reliable AI capabilities into products built for everyday work.
 
 <p>
   <a href="https://cocode.agency">Website</a>
