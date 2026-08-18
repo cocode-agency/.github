@@ -12,23 +12,23 @@
   <a href="https://cocode.agency">Website</a>
   ·
   <a href="https://github.com/cocode-agency/cocode">Cocode</a>
-  ·
-  <a href="https://github.com/cocode-agency/cocode-harness">Harness</a>
 </p>
 
 </div>
 
 <br />
 
-## What we’re building
+## Cocode
 
-`cocode.agency` is the home for an open, composable workspace around AI agents — from the desktop and terminal clients you use every day to the runtime that makes them useful.
+**Cocode is a ready-to-run workspace for real work with AI agents.** It brings files, Git, terminals, a browser, and agent sessions together in one place — with both a desktop GUI and a keyboard-first TUI.
 
-| Project | What it is | Status |
-| --- | --- | --- |
-| [Cocode](https://github.com/cocode-agency/cocode) | Desktop and terminal clients for focused, agent-assisted work | Active development |
-| [cocode-harness](https://github.com/cocode-agency/cocode-harness) | The runtime, tools, and host services behind the experience | Active development |
-| [cocode.agency](https://github.com/cocode-agency/cocode.agency) | Product website and public service surface | Active development |
+<a href="https://github.com/cocode-agency/cocode"><strong>Explore the Cocode repository →</strong></a>
+
+<br />
+
+| Desktop workspace | Terminal workflow |
+| --- | --- |
+| Sessions, files, Git, terminals, browser, and diffs on one surface | A focused client for keyboard-first and remote work |
 
 ## Our principles
 
@@ -41,11 +41,11 @@
 
 If you’re new to the organization, the quickest path is:
 
-1. Explore [Cocode](https://github.com/cocode-agency/cocode), the main client repository.
+1. Explore [Cocode](https://github.com/cocode-agency/cocode), the main repository.
 2. Read its README for local setup and development commands.
 3. Browse open issues and discussions before starting a contribution.
 
-For product updates and the public web experience, visit [cocode.agency](https://cocode.agency).
+For product updates, visit [cocode.agency](https://cocode.agency).
 
 <br />
 
