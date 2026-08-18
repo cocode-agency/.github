@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="../assets/cocode-mark.svg" width="88" alt="cocode logo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/cocode-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../assets/cocode-logo-light.svg" />
+  <img src="../assets/cocode-logo-light.svg" width="420" alt="cocode logo" />
+</picture>
 
 # cocode.agency
 
